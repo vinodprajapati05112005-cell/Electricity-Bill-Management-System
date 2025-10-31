@@ -44,20 +44,5 @@ A complete **Java + JDBC + MySQL based billing system** for managing electricity
 
 ---
 
-## Project Structure
 
-```bash
-Electricity-Bill-Management/
- ├── src/
- │   ├── Customer.java
- │   ├── Bill.java
- │   ├── Payment.java
- │   ├── DBConnection.java
- │   └── Main.java
- ├── sql/
- │   └── tables.sql
- ├── docs/
- │   ├── ER-Diagram.png
- │   └── Flowchart.png
- └── README.md
 
