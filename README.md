@@ -1,2 +1,63 @@
-# Electricity-Bill-Management-System
-The Electricity Bill Management System is a Java-based application designed to automate and streamline electricity billing operations. This system enables employees to manage customer data, generate bills, track payments, and maintain billing history efficiently.
+# Electricity Bill Management System
+
+A complete **Java + JDBC + MySQL based billing system** for managing electricity consumers, generating bills, recording payments, and maintaining billing history. Built with secure database integration and modular OOP architecture.
+
+---
+
+## Features
+
+### Customer Management
+- Add / Update / Remove customer
+- Search customer by ID / Meter No
+- View customer details
+
+### Billing System
+- Generate monthly bill
+- Slab-based billing calculation
+- Fixed charge + Tax applied
+- Auto bill-ID generation
+- View bill history
+
+### Payment Handling
+- Record bill payments
+- Mark bills as PAID
+- Track pending payments
+- Transaction logs
+
+###  Database & Security
+- **MySQL + JDBC**
+- Uses PreparedStatement (SQL Injection Safe)
+- File logging support
+- Internal admin/employee use only
+
+---
+
+## Tech Stack
+
+| Component | Technology |
+|---------|------------|
+| Language | Java |
+| Database | MySQL |
+| Database Access | JDBC |
+| Console (AWT UI Coming Soon) |
+| Concepts | OOP, Collections, Exceptions |
+
+---
+
+## Project Structure
+
+```bash
+Electricity-Bill-Management/
+ ├── src/
+ │   ├── Customer.java
+ │   ├── Bill.java
+ │   ├── Payment.java
+ │   ├── DBConnection.java
+ │   └── Main.java
+ ├── sql/
+ │   └── tables.sql
+ ├── docs/
+ │   ├── ER-Diagram.png
+ │   └── Flowchart.png
+ └── README.md
+
