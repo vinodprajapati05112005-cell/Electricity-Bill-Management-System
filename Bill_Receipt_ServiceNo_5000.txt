@@ -1,0 +1,99 @@
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2027-12-12
+Units Consumed : 4.0
+Bill Amount    : ₹45.6
+Payment Date   : 2025-08-21
+Payment Amount : ₹45.6
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2100-02-20
+Units Consumed : 60.0
+Bill Amount    : ₹1110.0
+Payment Date   : 2025-08-22
+Payment Amount : ₹1110.0
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2100-02-20
+Units Consumed : 60.0
+Bill Amount    : ₹1110.0
+Payment Date   : 2025-08-22
+Payment Amount : ₹1110.0
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5000
+Bill Date      : 2025-08-23
+Units Consumed : 50.0
+Bill Amount    : ₹910.0
+Payment Date   : 2025-08-23
+Payment Amount : ₹910.0
+Payment Method : UPI
+   Thank you for your payment!      
