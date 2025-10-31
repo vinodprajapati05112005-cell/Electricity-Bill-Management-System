@@ -1,0 +1,22 @@
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5004
+Bill Date      : 2025-08-22
+Units Consumed : 20.0
+Bill Amount    : ₹310.0
+Payment Date   : 2025-08-23
+Payment Amount : ₹310.0
+Payment Method : UPI
+   Thank you for your payment!      
+====================================
+        ELECTRICITY BILL RECEIPT    
+====================================
+Service Number : 5004
+Bill Date      : 2025-08-22
+Units Consumed : 20.0
+Bill Amount    : ₹310.0
+Payment Date   : 2025-08-23
+Payment Amount : ₹310.0
+Payment Method : UPI
+   Thank you for your payment!      
