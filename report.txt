@@ -1,0 +1,66 @@
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Yearly (Year: 2025)
+Total Bills Generated: 21
+Total Revenue Collected: ₹15070.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Yearly (Year: 2025)
+Total Bills Generated: 21
+Total Revenue Collected: ₹15070.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Yearly (Year: 2025)
+Total Bills Generated: 23
+Total Revenue Collected: ₹16115.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Daily (Year: 2025, Month: 7, Day: 14)
+Total Bills Generated: 20
+Total Revenue Collected: ₹14760.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Monthly (Year: 2025, Month: 7)
+Total Bills Generated: 20
+Total Revenue Collected: ₹14760.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Yearly (Year: 2025)
+Total Bills Generated: 23
+Total Revenue Collected: ₹16115.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Yearly (Year: 2025)
+Total Bills Generated: 23
+Total Revenue Collected: ₹16115.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Daily (Year: 2025, Month: 7, Day: 14)
+Total Bills Generated: 20
+Total Revenue Collected: ₹14760.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Monthly (Year: 2025, Month: 7)
+Total Bills Generated: 20
+Total Revenue Collected: ₹14760.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Daily (Year: 2025, Month: 8, Day: 22)
+Total Bills Generated: 2
+Total Revenue Collected: ₹370.0
+----------------------------------
+ELECTRICITY BILL MANAGEMENT REPORT
+----------------------------------
+Report Type: Daily (Year: 2025, Month: 7, Day: 14)
+Total Bills Generated: 10
+Total Revenue Collected: ₹7380.0
+----------------------------------
